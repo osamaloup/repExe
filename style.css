@@ -1,0 +1,9 @@
+body {
+	position: absolute;
+}
+form {
+	position: relative;
+	top: 100px;
+	left: 150px;
+}
+
